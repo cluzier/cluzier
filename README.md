@@ -3,7 +3,6 @@
 
 <div style="display: flex; justify-content: space-around;">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=cluzier&label=Profile%20views&color=0e75b6&style=flat" alt="cluzier" /> </p>
-  <p align="left"> <a href="https://twitter.com/conner_luzier" target="blank"><img src="https://img.shields.io/twitter/follow/conner_luzier?logo=twitter&style=for-the-badge" alt="conner_luzier" /></a> </p>
 </div>
 
 <span><p align="left">
