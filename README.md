@@ -31,11 +31,6 @@ I am a Software Developer based in Orlando, FL who enjoys building things that l
 </p>
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cluzier&layout=compact)
-![cluzier's GitHub stats](https://github-readme-stats.vercel.app/api?username=cluzier)
-
----
 #### 💬 Contact me
 
 You can contact me at: <br>
