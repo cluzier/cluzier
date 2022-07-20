@@ -1,6 +1,6 @@
 ### Hey there, I'm Conner👋
 
-I am a Software Developer based in Orlando, FL who enjoys building things that live on the internet. I develop websites and web applications that provide intuitive, efficient, and modern backends.
+I am a Software Developer based in Albany, NY who enjoys building things that live on the internet. I develop websites and web applications that provide intuitive, efficient, and modern backends.
 
 ---
 #### ⚡️Fun facts
