@@ -50,9 +50,7 @@ Led UI/UX efforts on enterprise Angular apps—boosted retention, accessibility,
 Refactored core components for NYC DSS apps, improved performance & testing coverage.
 
 **Full-Stack Developer** @ *Cyber Medics* (2019–2020)  
-Built .NET/Angular logistics software for Collins Aerospace, mentored junior devs.
-
-More on my [resume →](https://cluzier.dev/assets/Conner_Luzier_Resume.pdf)
+Built .NET/Angular logistics software for Collins Aerospace.
 
 ---
 
