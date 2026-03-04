@@ -1,48 +1,70 @@
-# 👋 Hey, I’m Conner Luzier
+```bash
+╔══════════════════════════════════════════════════════════════╗
+║  > whoami                                                    ║
+╚══════════════════════════════════════════════════════════════╝
+Conner Luzier
+Software Engineer II
+Albany, NY
 
-🎯 I’m a Software Engineer II based in Albany, NY, passionate about building clean, performant, and intuitive applications—especially on the web.
+╔══════════════════════════════════════════════════════════════╗
+║  > about                                                     ║
+╚══════════════════════════════════════════════════════════════╝
+I build clean, performant, and intuitive software —
+primarily for the web.
 
-I specialize in modern frontend architecture with Angular and React, scalable APIs with .NET and Node.js, and crafting polished UI systems with Tailwind. I love turning complex problems into simple, elegant solutions.
+Specializing in:
+• Modern frontend architecture (Angular / React)
+• Scalable APIs (.NET / Node.js)
+• Polished UI systems (TailwindCSS)
+• Enterprise-grade performance + accessibility
 
-🔗 [cluzier.dev](https://cluzier.dev) | [GitHub](https://github.com/cluzier) | [LinkedIn](https://www.linkedin.com/in/connerluzier/)
+I enjoy turning complex systems into simple, elegant solutions.
 
----
+╔══════════════════════════════════════════════════════════════╗
+║  > links                                                     ║
+╚══════════════════════════════════════════════════════════════╝
+Portfolio   → https://cluzier.dev
+GitHub      → https://github.com/cluzier
+LinkedIn    → https://linkedin.com/in/connerluzier
 
-## ⚡️ Fun Facts
+╔══════════════════════════════════════════════════════════════╗
+║  > highlights                                                ║
+╚══════════════════════════════════════════════════════════════╝
+✓ Top 10 — CodePen Top Pens (7th Overall, 2018)
+✓ Creator of StonkBot — 110K+ daily users
+✓ 3× TADHack-Mini Winner (2018, 2019, 2020)
 
-- 🏆 Featured in **CodePen’s Top Pens of 2018** — placed **7th overall**
-- 📈 Created [StonkBot](https://discord.bots.gg/bots/736277718324477982), a stock/crypto Discord bot used by **110K+ daily users**
-- 🧠 3× winner of **TADHack-Mini** (2020, 2019, 2018)
 
----
+╔══════════════════════════════════════════════════════════════╗
+║  > tech-stack                                                ║
+╚══════════════════════════════════════════════════════════════╝
+Languages:      JavaScript · TypeScript · C#
+Frontend:       Angular · React · TailwindCSS
+Backend:        .NET · Node.js · REST APIs
+Focus:          Architecture · UI Systems · Performance · Accessibility
 
-## 🛠️ What I Work With
+╔══════════════════════════════════════════════════════════════╗
+║  > experience                                                ║
+╚══════════════════════════════════════════════════════════════╝
 
-**Languages & Frameworks**  
-JavaScript · TypeScript · Angular · React · .NET · Node.js · TailwindCSS  
+[2025–Present]  Software Engineer II  @ Plug Power
+→ Building enterprise software in the clean energy space.
+→ Scalable architecture, modern frontend systems, performance focus.
 
-**Focus Areas**  
-Frontend Architecture · UI/UX Systems · Performance Optimization · Accessibility · REST APIs · Enterprise Applications
+[2022–2025]     UI Developer           @ LeadingResponse
+→ Led UI/UX across large Angular applications.
+→ Improved retention, accessibility compliance, and revenue flow.
 
----
+[2021–2022]     Software Engineer II  @ AxonBytes
+→ Refactored core NYC DSS applications.
+→ Increased performance, maintainability, and test coverage.
 
-## 🧑‍💻 Experience
+[2019–2020]     Full-Stack Developer   @ Cyber Medics
+→ Built .NET / Angular logistics systems for aerospace operations.
 
-**Software Engineer II** @ *Plug Power* (2025–Present)  
-Building enterprise-grade software solutions in the clean energy space. Focused on scalable architecture, performance, and modern frontend systems.
-
-**UI Developer** @ *LeadingResponse* (2022–2025)  
-Led UI/UX efforts on enterprise Angular applications—improving retention, accessibility compliance, and revenue-driving experiences.
-
-**Software Engineer II** @ *AxonBytes* (2021–2022)  
-Refactored core components for NYC DSS applications, improving performance, maintainability, and test coverage.
-
-**Full-Stack Developer** @ *Cyber Medics* (2019–2020)  
-Built .NET/Angular logistics software for Collins Aerospace.
-
----
-
-## 📫 Let’s Connect
-
-[![Email Badge](https://img.shields.io/badge/Email-connerluzier@outlook.com-blue?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:connerluzier@outlook.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Conner_Luzier-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/connerluzier/)
+╔══════════════════════════════════════════════════════════════╗
+║  > currently                                                 ║
+╚══════════════════════════════════════════════════════════════╝
+Building enterprise-grade software in clean energy ⚡
+Designing scalable frontend systems.
+Always shipping. Always refining.
