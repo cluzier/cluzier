@@ -34,7 +34,6 @@ LinkedIn    → https://linkedin.com/in/connerluzier
 ✓ Creator of StonkBot — 110K+ daily users
 ✓ 3× TADHack-Mini Winner (2018, 2019, 2020)
 
-
 ╔══════════════════════════════════════════════════════════════╗
 ║  > tech-stack                                                ║
 ╚══════════════════════════════════════════════════════════════╝
