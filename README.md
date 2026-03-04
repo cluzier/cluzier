@@ -28,13 +28,6 @@ GitHub      → https://github.com/cluzier
 LinkedIn    → https://linkedin.com/in/connerluzier
 
 ╔══════════════════════════════════════════════════════════════╗
-║  > highlights                                                ║
-╚══════════════════════════════════════════════════════════════╝
-✓ Top 10 — CodePen Top Pens (7th Overall, 2018)
-✓ Creator of StonkBot — 110K+ daily users
-✓ 3× TADHack-Mini Winner (2018, 2019, 2020)
-
-╔══════════════════════════════════════════════════════════════╗
 ║  > tech-stack                                                ║
 ╚══════════════════════════════════════════════════════════════╝
 Languages:      JavaScript · TypeScript · C#
