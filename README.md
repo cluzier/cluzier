@@ -1,62 +1,33 @@
-```bash
-╔══════════════════════════════════════════════════════════════╗
-║  > whoami                                                    ║
-╚══════════════════════════════════════════════════════════════╝
-Conner Luzier
-Software Engineer II
-Albany, NY
+# Conner Luzier
 
-╔══════════════════════════════════════════════════════════════╗
-║  > about                                                     ║
-╚══════════════════════════════════════════════════════════════╝
-I build clean, performant, and intuitive software —
-primarily for the web.
+Software Engineer II &nbsp;·&nbsp; Albany, NY
 
-Specializing in:
-• Modern frontend architecture (Angular / React)
-• Scalable APIs (.NET / Node.js)
-• Polished UI systems (TailwindCSS)
-• Enterprise-grade performance + accessibility
+---
 
-I enjoy turning complex systems into simple, elegant solutions.
+I build clean, performant, and intuitive software — primarily for the web. Specializing in modern frontend architecture, scalable APIs, and polished UI systems. I enjoy turning complex problems into simple, elegant solutions.
 
-╔══════════════════════════════════════════════════════════════╗
-║  > links                                                     ║
-╚══════════════════════════════════════════════════════════════╝
-Portfolio   → https://cluzier.dev
-GitHub      → https://github.com/cluzier
-LinkedIn    → https://linkedin.com/in/connerluzier
+---
 
-╔══════════════════════════════════════════════════════════════╗
-║  > tech-stack                                                ║
-╚══════════════════════════════════════════════════════════════╝
-Languages:      JavaScript · TypeScript · C#
-Frontend:       Angular · React · TailwindCSS
-Backend:        .NET · Node.js · REST APIs
-Focus:          Architecture · UI Systems · Performance · Accessibility
+**Stack**
 
-╔══════════════════════════════════════════════════════════════╗
-║  > experience                                                ║
-╚══════════════════════════════════════════════════════════════╝
+`TypeScript` `JavaScript` `C#` `C++` `Angular` `React` `TailwindCSS` `.NET` `Node.js`
 
-[2025–Present]  Software Engineer II  @ Plug Power
-→ Building enterprise software in the clean energy space.
-→ Scalable architecture, modern frontend systems, performance focus.
+---
 
-[2022–2025]     UI Developer           @ LeadingResponse
-→ Led UI/UX across large Angular applications.
-→ Improved retention, accessibility compliance, and revenue flow.
+**Experience**
 
-[2021–2022]     Software Engineer II  @ AxonBytes
-→ Refactored core NYC DSS applications.
-→ Increased performance, maintainability, and test coverage.
+`2025–Present` &nbsp; **Software Engineer II** @ Plug Power  
+Building enterprise software in the clean energy space, from scalable frontend systems to control software for stationary power units.
 
-[2019–2020]     Full-Stack Developer   @ Cyber Medics
-→ Built .NET / Angular logistics systems for aerospace operations.
+`2022–2025` &nbsp; **UI Developer** @ LeadingResponse  
+Led UI/UX across large Angular applications; improved retention, accessibility compliance, and revenue flow.
 
-╔══════════════════════════════════════════════════════════════╗
-║  > currently                                                 ║
-╚══════════════════════════════════════════════════════════════╝
-Building enterprise-grade software in clean energy ⚡
-Designing scalable frontend systems.
-Always shipping. Always refining.
+`2021–2022` &nbsp; **Software Engineer II** @ AxonBytes  
+Refactored core NYC DSS applications, improving performance, maintainability, and test coverage.
+
+`2019–2020` &nbsp; **Full-Stack Developer** @ Cyber Medics  
+Built .NET / Angular logistics systems for aerospace operations.
+
+---
+
+*Always shipping. Always refining.*
